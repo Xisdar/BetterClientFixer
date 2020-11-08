@@ -1,4 +1,4 @@
-Minecraft-ClientFixer
+ClientFixer
 =====================
 Building commands:
 
