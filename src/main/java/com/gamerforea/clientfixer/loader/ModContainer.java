@@ -19,7 +19,7 @@ public final class ModContainer extends DummyModContainer
 		this.meta.modId = this.getModId();
 		this.meta.name = this.getName();
 		this.meta.version = this.getVersion();
-		this.meta.url = "https://github.com/Geo3gamer/Minecraft-ClientFixer";
+		this.meta.url = "https://github.com/Geo3gamer/BetterClientFixer";
 	}
 
 	@Override
